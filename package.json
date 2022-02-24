@@ -1,0 +1,11 @@
+{
+  "name": "chatters",
+  "version": "0.0.1",
+  "description": "Backend for chatters using JS and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Lennster1",
+  "license": "GNU GPLv3"
+}
